@@ -1,6 +1,6 @@
 ---
 title: "Thanh Viet Doan"
-image: "thanh.jpg"
+image: "thanh.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/thanhvdoan/"
