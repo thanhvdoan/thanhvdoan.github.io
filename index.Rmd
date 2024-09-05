@@ -9,19 +9,9 @@ links:
   - label: Email
     url: "mailto:thanhvdoan02@gmail.com"
 output:
-  postcards::trestles
+  postcards::jolla
 ---
  
 ## Bio
 
 I study Molecular Biology and Public Health (Bisotatistics Concentration) at Johns Hopkins. I am interested in leveraging quantitative tools (STATA, R, Python) to answer questions regarding reproductive and sexual health as well as oral (community health). I am interested in learning more about data visualization and data analytics techniques.
-
-## Five Fun Facts
-1. I write poetry in my free time and run the undergraduate club Bluejays and Poets. 
-2. I took ballet classes growing up and was involved in the JHU Ballet Company. 
-3. I am interested in digital and film photography!
-4. I am ambidextrous. 
-5. I met the Prime Minister of Romania!
-
-## Inspiring Link
-One of my favorite poems is [Wild Geese by Mary Oliver](http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html). I am not sure why I like it, but I do quite a lot!
