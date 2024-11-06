@@ -14,4 +14,4 @@ output:
  
 ## Bio
 
-I study Molecular Biology and Public Health (Biostatistics Concentration) at Johns Hopkins. I am interested in leveraging quantitative tools (STATA, R, Python) to answer questions regarding reproductive & sexual health and oral community health. I am interested in learning more about data visualization and data analytics techniques.
+I study Molecular Biology and Public Health (Biostatistics Concentration) at Johns Hopkins. I am interested in leveraging quantitative tools (STATA, R, Python) to answer questions regarding health disparities. I am interested in learning more about data visualization and data analytics techniques.
